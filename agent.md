@@ -16,7 +16,7 @@ Ces éléments constituent le brief du projet, pas des faits vérifiés indépen
 - Il permet d'incarner des manifestants en rouge ou des CRS en bleu.
 - Il utilise Three.js pour sa dimension graphique et WebSocket pour les échanges réseau. Employer les noms « Three.js » et « WebSocket », et non « treejs ».
 - Il propose une satire de l'actualité française et permet d'en rire à travers un univers vidéoludique.
-- Le blog traite du gameplay, des cheatcodes, du graphisme, de la technique, de la communauté, des mises à jour et des parallèles avec l'actualité.
+- Le blog traite du gameplay, du graphisme, de la technique, de la communauté, des mises à jour et des parallèles avec l'actualité.
 
 Ne pas déduire du brief des règles, modes, cartes, lieux précis, commandes, objectifs, capacités, performances ou fonctionnalités absents des sources. Ne pas affirmer que la cathédrale ou un monument chartrain est visible sans preuve.
 
@@ -56,9 +56,7 @@ Privilégier les sources primaires et recouper les affirmations sensibles. Ne pa
 
 ### Cheatcodes
 
-Créer une rubrique dédiée, sans inventer de code. Pour chaque code confirmé : code exact, source, date du test, version du jeu, mode compatible, procédure et effet réellement observé, restrictions éventuelles. Identifier clairement les codes officiels, commandes de développement et éléments historiques.
-
-Si aucun code n'est confirmé, l'indiquer ; ne pas publier une liste fictive pour capter une requête. Une page utile peut expliquer l'état des vérifications et orienter vers les commandes documentées. Ne pas fournir d'exploitation du serveur, de contournement anti-triche ou de procédé donnant un avantage non autorisé en multijoueur.
+Aucune page cheatcodes n'est actuellement prévue dans le site. Ne pas ajouter de page ou de lien vers cette rubrique sans demande explicite. Ne jamais inventer de code ni fournir d'exploitation du serveur, de contournement anti-triche ou de procédé donnant un avantage non autorisé en multijoueur.
 
 ## 5. Architecture éditoriale et navigation
 
@@ -71,7 +69,6 @@ Structure indicative, à adapter aux contenus réellement disponibles :
 /gameplay/debuter/
 /gameplay/manifestants/
 /gameplay/crs/
-/cheatcodes/
 /graphismes/
 /technique/
 /communaute/
@@ -96,7 +93,6 @@ Ces titres sont des pistes, pas des affirmations à publier sans recherche.
 | Manifarea : découvrir le jeu satirique situé à Chartres | Découverte du jeu | Sources du projet, captures autorisées |
 | Débuter dans Manifarea : commandes et premières parties | Aide aux débutants | Commandes et déroulement vérifiés |
 | Manifestants rouges et CRS bleus : comprendre les deux camps | Compréhension du gameplay | Différences et objectifs documentés |
-| Cheatcodes Manifarea : codes confirmés et conditions d'utilisation | Recherche de codes | Codes sourcés et tests reproductibles |
 | Chartres dans Manifarea : décor et interprétation artistique | Univers du jeu | Comparaisons visuelles vérifiables |
 | Graphismes de Manifarea : direction artistique et lisibilité | Analyse visuelle | Captures et observations précises |
 | Three.js et WebSocket : comprendre la technique de Manifarea | Compréhension technique | Documentation et, pour l'implémentation, code autorisé |
@@ -221,7 +217,7 @@ Ne jamais déclarer une intégration, publication, mesure de terrain ou vérific
 
 ## 12. Contrôles avant livraison du site
 
-- [ ] Identité, liens du jeu, fonctionnalités et cheatcodes vérifiés ou laissés en brouillon.
+- [ ] Identité, liens du jeu et fonctionnalités vérifiés ou laissés en brouillon.
 - [ ] Faits, commentaire et satire clairement distincts ; actualité sourcée et datée.
 - [ ] Aucune valeur de démonstration, fausse citation ou statistique inventée.
 - [ ] HTML valide ; navigation et contenus essentiels utilisables sans JavaScript.
